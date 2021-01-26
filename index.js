@@ -1,5 +1,5 @@
 import { fifaData } from './fifa.js';
-
+https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 // ⚽️ M  V P ⚽️ //
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 1: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
